@@ -1,0 +1,7 @@
+Metric	Value
+Samples_in_CIBERSORTx_output	48
+Samples_passing_CIBERSORTx_P_value	48
+Minimum_fraction_sum	0.9999999999999991
+Maximum_fraction_sum	1.000000000000001
+Median_correlation	0.551123939667726
+Median_RMSE	0.833992820416508

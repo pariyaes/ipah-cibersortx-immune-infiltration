@@ -1,0 +1,45 @@
+Comparison	Cell	Batches_evaluated	Positive_directions	Negative_directions	Direction_consistent
+Female_vs_Male_within_IPAH	B cells memory	2	1	1	FALSE
+Female_vs_Male_within_IPAH	B cells naive	2	1	1	FALSE
+Female_vs_Male_within_IPAH	Dendritic cells activated	2	0	2	TRUE
+Female_vs_Male_within_IPAH	Dendritic cells resting	2	0	2	TRUE
+Female_vs_Male_within_IPAH	Eosinophils	2	1	1	FALSE
+Female_vs_Male_within_IPAH	Macrophages M0	2	1	1	FALSE
+Female_vs_Male_within_IPAH	Macrophages M1	2	0	2	TRUE
+Female_vs_Male_within_IPAH	Macrophages M2	2	0	2	TRUE
+Female_vs_Male_within_IPAH	Mast cells activated	2	0	0	FALSE
+Female_vs_Male_within_IPAH	Mast cells resting	2	1	1	FALSE
+Female_vs_Male_within_IPAH	Monocytes	2	0	2	TRUE
+Female_vs_Male_within_IPAH	NK cells activated	2	1	1	FALSE
+Female_vs_Male_within_IPAH	NK cells resting	2	1	1	FALSE
+Female_vs_Male_within_IPAH	Neutrophils	2	1	1	FALSE
+Female_vs_Male_within_IPAH	Plasma cells	2	0	1	FALSE
+Female_vs_Male_within_IPAH	T cells CD4 memory activated	2	2	0	TRUE
+Female_vs_Male_within_IPAH	T cells CD4 memory resting	2	1	1	FALSE
+Female_vs_Male_within_IPAH	T cells CD4 naive	2	1	0	FALSE
+Female_vs_Male_within_IPAH	T cells CD8	2	0	2	TRUE
+Female_vs_Male_within_IPAH	T cells follicular helper	2	1	1	FALSE
+Female_vs_Male_within_IPAH	T cells gamma delta	2	0	0	FALSE
+Female_vs_Male_within_IPAH	T cells regulatory (Tregs)	2	0	2	TRUE
+IPAH_vs_Control	B cells memory	2	1	1	FALSE
+IPAH_vs_Control	B cells naive	2	1	1	FALSE
+IPAH_vs_Control	Dendritic cells activated	2	1	1	FALSE
+IPAH_vs_Control	Dendritic cells resting	2	2	0	TRUE
+IPAH_vs_Control	Eosinophils	2	2	0	TRUE
+IPAH_vs_Control	Macrophages M0	2	1	1	FALSE
+IPAH_vs_Control	Macrophages M1	2	2	0	TRUE
+IPAH_vs_Control	Macrophages M2	2	2	0	TRUE
+IPAH_vs_Control	Mast cells activated	2	0	0	FALSE
+IPAH_vs_Control	Mast cells resting	2	1	1	FALSE
+IPAH_vs_Control	Monocytes	2	2	0	TRUE
+IPAH_vs_Control	NK cells activated	2	1	1	FALSE
+IPAH_vs_Control	NK cells resting	2	0	2	TRUE
+IPAH_vs_Control	Neutrophils	2	0	2	TRUE
+IPAH_vs_Control	Plasma cells	2	1	1	FALSE
+IPAH_vs_Control	T cells CD4 memory activated	2	1	1	FALSE
+IPAH_vs_Control	T cells CD4 memory resting	2	0	2	TRUE
+IPAH_vs_Control	T cells CD4 naive	2	0	0	FALSE
+IPAH_vs_Control	T cells CD8	2	1	1	FALSE
+IPAH_vs_Control	T cells follicular helper	2	0	1	FALSE
+IPAH_vs_Control	T cells gamma delta	2	0	0	FALSE
+IPAH_vs_Control	T cells regulatory (Tregs)	2	1	1	FALSE

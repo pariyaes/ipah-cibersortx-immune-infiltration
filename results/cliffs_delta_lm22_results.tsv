@@ -1,0 +1,67 @@
+Cell	Comparison	Analysis_layer	Group_1	Group_2	Cliffs_delta	Absolute_delta	Direction	Magnitude
+Monocytes	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.8041958041958042	0.8041958041958042	Lower_in_Group_1	large
+T cells CD8	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.7762237762237763	0.7762237762237763	Lower_in_Group_1	large
+T cells CD4 memory activated	Female_vs_Male_within_IPAH	Primary	Female	Male	0.6853146853146853	0.6853146853146853	Higher_in_Group_1	large
+T cells regulatory (Tregs)	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.6783216783216783	0.6783216783216783	Lower_in_Group_1	large
+Macrophages M1	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.6363636363636364	0.6363636363636364	Lower_in_Group_1	large
+Dendritic cells resting	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.5524475524475524	0.5524475524475524	Lower_in_Group_1	large
+T cells CD4 naive	Female_vs_Male_within_IPAH	Primary	Female	Male	0.5384615384615384	0.5384615384615384	Higher_in_Group_1	large
+Macrophages M0	Female_vs_Male_within_IPAH	Primary	Female	Male	0.4825174825174825	0.4825174825174825	Higher_in_Group_1	large
+T cells follicular helper	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.46853146853146854	0.46853146853146854	Lower_in_Group_1	medium
+Macrophages M2	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.34265734265734266	0.34265734265734266	Lower_in_Group_1	medium
+T cells CD4 memory resting	Female_vs_Male_within_IPAH	Primary	Female	Male	0.32867132867132864	0.32867132867132864	Higher_in_Group_1	small
+Eosinophils	Female_vs_Male_within_IPAH	Primary	Female	Male	0.32867132867132864	0.32867132867132864	Higher_in_Group_1	small
+B cells naive	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.3006993006993007	0.3006993006993007	Lower_in_Group_1	small
+Mast cells activated	Female_vs_Male_within_IPAH	Primary	Female	Male	0.2727272727272727	0.2727272727272727	Higher_in_Group_1	small
+Dendritic cells activated	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.25874125874125875	0.25874125874125875	Lower_in_Group_1	small
+Neutrophils	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.23076923076923078	0.23076923076923078	Lower_in_Group_1	small
+Mast cells resting	Female_vs_Male_within_IPAH	Primary	Female	Male	0.17482517482517482	0.17482517482517482	Higher_in_Group_1	small
+NK cells resting	Female_vs_Male_within_IPAH	Primary	Female	Male	-0.11888111888111888	0.11888111888111888	Lower_in_Group_1	negligible
+B cells memory	Female_vs_Male_within_IPAH	Primary	Female	Male	0.09090909090909091	0.09090909090909091	Higher_in_Group_1	negligible
+Plasma cells	Female_vs_Male_within_IPAH	Primary	Female	Male	0.08391608391608392	0.08391608391608392	Higher_in_Group_1	negligible
+T cells gamma delta	Female_vs_Male_within_IPAH	Primary	Female	Male	0.07692307692307693	0.07692307692307693	Higher_in_Group_1	negligible
+NK cells activated	Female_vs_Male_within_IPAH	Primary	Female	Male	0.04895104895104895	0.04895104895104895	Higher_in_Group_1	negligible
+Neutrophils	IPAH_vs_Control	Primary	IPAH	Control	-0.4826388888888889	0.4826388888888889	Lower_in_Group_1	large
+Macrophages M0	IPAH_vs_Control	Primary	IPAH	Control	0.19791666666666666	0.19791666666666666	Higher_in_Group_1	small
+Monocytes	IPAH_vs_Control	Primary	IPAH	Control	0.1909722222222222	0.1909722222222222	Higher_in_Group_1	small
+Macrophages M2	IPAH_vs_Control	Primary	IPAH	Control	0.1909722222222222	0.1909722222222222	Higher_in_Group_1	small
+T cells CD8	IPAH_vs_Control	Primary	IPAH	Control	0.1388888888888889	0.1388888888888889	Higher_in_Group_1	negligible
+T cells CD4 memory resting	IPAH_vs_Control	Primary	IPAH	Control	-0.1388888888888889	0.1388888888888889	Lower_in_Group_1	negligible
+Dendritic cells resting	IPAH_vs_Control	Primary	IPAH	Control	0.1388888888888889	0.1388888888888889	Higher_in_Group_1	negligible
+B cells memory	IPAH_vs_Control	Primary	IPAH	Control	0.1232638888888889	0.1232638888888889	Higher_in_Group_1	negligible
+Macrophages M1	IPAH_vs_Control	Primary	IPAH	Control	0.11458333333333333	0.11458333333333333	Higher_in_Group_1	negligible
+B cells naive	IPAH_vs_Control	Primary	IPAH	Control	-0.10069444444444445	0.10069444444444445	Lower_in_Group_1	negligible
+NK cells activated	IPAH_vs_Control	Primary	IPAH	Control	0.08159722222222222	0.08159722222222222	Higher_in_Group_1	negligible
+Eosinophils	IPAH_vs_Control	Primary	IPAH	Control	0.08159722222222222	0.08159722222222222	Higher_in_Group_1	negligible
+Dendritic cells activated	IPAH_vs_Control	Primary	IPAH	Control	0.06597222222222222	0.06597222222222222	Higher_in_Group_1	negligible
+T cells gamma delta	IPAH_vs_Control	Primary	IPAH	Control	-0.041666666666666664	0.041666666666666664	Lower_in_Group_1	negligible
+T cells follicular helper	IPAH_vs_Control	Primary	IPAH	Control	0.03993055555555555	0.03993055555555555	Higher_in_Group_1	negligible
+Mast cells resting	IPAH_vs_Control	Primary	IPAH	Control	0.03125	0.03125	Higher_in_Group_1	negligible
+NK cells resting	IPAH_vs_Control	Primary	IPAH	Control	-0.027777777777777776	0.027777777777777776	Lower_in_Group_1	negligible
+T cells CD4 naive	IPAH_vs_Control	Primary	IPAH	Control	-0.026041666666666668	0.026041666666666668	Lower_in_Group_1	negligible
+T cells regulatory (Tregs)	IPAH_vs_Control	Primary	IPAH	Control	-0.024305555555555556	0.024305555555555556	Lower_in_Group_1	negligible
+Plasma cells	IPAH_vs_Control	Primary	IPAH	Control	-0.013888888888888888	0.013888888888888888	Lower_in_Group_1	negligible
+T cells CD4 memory activated	IPAH_vs_Control	Primary	IPAH	Control	-0.003472222222222222	0.003472222222222222	Lower_in_Group_1	negligible
+Mast cells activated	IPAH_vs_Control	Primary	IPAH	Control	0.001736111111111111	0.001736111111111111	Higher_in_Group_1	negligible
+Neutrophils	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	-0.7633136094674556	0.7633136094674556	Lower_in_Group_1	large
+T cells CD4 memory resting	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	-0.4319526627218935	0.4319526627218935	Lower_in_Group_1	medium
+B cells naive	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	-0.3727810650887574	0.3727810650887574	Lower_in_Group_1	medium
+B cells memory	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.3727810650887574	0.3727810650887574	Higher_in_Group_1	medium
+T cells CD4 memory activated	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.33136094674556216	0.33136094674556216	Higher_in_Group_1	medium
+Macrophages M2	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.26627218934911245	0.26627218934911245	Higher_in_Group_1	small
+T cells regulatory (Tregs)	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.23076923076923078	0.23076923076923078	Higher_in_Group_1	small
+Mast cells activated	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.1952662721893491	0.1952662721893491	Higher_in_Group_1	small
+Dendritic cells resting	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.17159763313609466	0.17159763313609466	Higher_in_Group_1	small
+Eosinophils	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.17159763313609466	0.17159763313609466	Higher_in_Group_1	small
+T cells follicular helper	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.16568047337278108	0.16568047337278108	Higher_in_Group_1	small
+NK cells resting	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.1242603550295858	0.1242603550295858	Higher_in_Group_1	negligible
+T cells CD4 naive	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.11242603550295859	0.11242603550295859	Higher_in_Group_1	negligible
+Monocytes	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.10059171597633136	0.10059171597633136	Higher_in_Group_1	negligible
+Macrophages M0	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.10059171597633136	0.10059171597633136	Higher_in_Group_1	negligible
+T cells CD8	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.01775147928994083	0.01775147928994083	Higher_in_Group_1	negligible
+Macrophages M1	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	-0.01775147928994083	0.01775147928994083	Lower_in_Group_1	negligible
+NK cells activated	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	-0.011834319526627219	0.011834319526627219	Lower_in_Group_1	negligible
+T cells gamma delta	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	-0.005917159763313609	0.005917159763313609	Lower_in_Group_1	negligible
+Dendritic cells activated	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	-0.005917159763313609	0.005917159763313609	Lower_in_Group_1	negligible
+Mast cells resting	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0.005917159763313609	0.005917159763313609	Higher_in_Group_1	negligible
+Plasma cells	Female_IPAH_vs_Female_Control	Secondary	IPAH	Control	0	0	No_difference	negligible

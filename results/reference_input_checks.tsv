@@ -1,0 +1,9 @@
+Check	Value
+Metadata samples	48
+CIBERSORTx samples	48
+LM22 cell types	22
+Samples with P-value < 0.05	48
+Minimum fraction sum	0.9999999999999991
+Maximum fraction sum	1.000000000000001
+Metadata samples absent from CIBERSORTx	0
+CIBERSORTx samples absent from metadata	0
