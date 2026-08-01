@@ -184,3 +184,16 @@ Scientific portfolio: `https://pariyaes.github.io/`
 ## License
 
 The source code is released under the MIT License. Public-dataset accessions and CIBERSORTx-derived outputs remain subject to their original data-source and platform terms.
+
+
+## Original project outputs
+
+The `results/original_project_outputs/` and
+`figures/original_project_figures/` directories preserve the exact corrected
+outputs from the completed IPAH immune-cell infiltration analysis.
+
+The standardized files located directly under `results/` and `figures/` were
+regenerated using the cleaned reproducible workflow provided in this repository.
+
+The two sets are retained separately to distinguish the original project
+outputs from the reproducibility workflow outputs.
