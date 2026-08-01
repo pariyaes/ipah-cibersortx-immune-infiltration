@@ -11,4 +11,4 @@ Before publishing this repository:
 - [x] Remove any local absolute paths, tokens, or credentials.
 - [x] Confirm that no private patient data, reports, or unpublished candidate tables are present.
 - [x] Add the final GitHub URL to `CITATION.cff`.
-- [ ] Pin the repository on the GitHub profile only after the workflow has been run successfully.
+- [x] Pin the repository on the GitHub profile only after the workflow has been run successfully.
