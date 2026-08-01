@@ -1,0 +1,30 @@
+# R session and project files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Private or large source data
+data/raw/
+data/private/
+
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Keep validated result tables
+results/*
+!results/.gitkeep
+!results/*.tsv
+!results/sessionInfo.txt
+
+# Keep generated figures
+figures/*
+!figures/.gitkeep
+!figures/*.png
