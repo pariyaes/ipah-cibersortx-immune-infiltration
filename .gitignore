@@ -28,3 +28,10 @@ results/*
 figures/*
 !figures/.gitkeep
 !figures/*.png
+
+# Preserve exact corrected project outputs
+!results/original_project_outputs/
+!results/original_project_outputs/**
+
+!figures/original_project_figures/
+!figures/original_project_figures/**
