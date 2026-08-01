@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated publication."
+title: "IPAH CIBERSORTx Immune-Infiltration Workflow"
+type: software
+version: 1.0.0
+date-released: 2026-08-01
+authors:
+  - family-names: Eskandari
+    given-names: Pariya
+repository-code: "https://github.com/pariyaes/ipah-cibersortx-immune-infiltration"
+preferred-citation:
+  type: article
+  title: "Integrated transcriptomic and machine learning analysis identifies female-associated candidate biomarkers in idiopathic pulmonary arterial hypertension"
+  authors:
+    - family-names: Pourdadashi
+      given-names: Atefeh
+    - family-names: Eskandari
+      given-names: Pariya
+    - family-names: Ghayour Najafabadi
+      given-names: Zahra
+    - family-names: Tajari
+      given-names: Ahmadreza
+    - family-names: Heydarzadeh
+      given-names: Samaneh
+    - family-names: Panahi
+      given-names: Mohammad
+  journal: "Computational Biology and Chemistry"
+  year: 2026
+  doi: "10.1016/j.compbiolchem.2026.109276"

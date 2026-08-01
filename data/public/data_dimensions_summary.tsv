@@ -1,0 +1,9 @@
+Metric	Value
+Count_matrix_genes	63187
+Count_matrix_samples	64
+GSE126262_samples	16
+GSE303084_samples	48
+TPM_genes_GSE303084	34976
+TPM_samples_GSE303084	48
+CIBERSORTx_samples	48
+CIBERSORTx_cell_types	22

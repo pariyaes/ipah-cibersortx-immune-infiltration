@@ -1,0 +1,28 @@
+{
+  "project": "ipah-cibersortx-immune-infiltration",
+  "version": "1.0.0",
+  "generated_on": "2026-08-01",
+  "author": "Pariya Eskandari",
+  "scope": {
+    "count_matrix": {
+      "genes": 63187,
+      "samples": 64
+    },
+    "tpm_matrix": {
+      "genes": 34976,
+      "samples": 48
+    },
+    "cibersortx_output": {
+      "samples": 48,
+      "cell_types": 22
+    }
+  },
+  "large_files_excluded": [
+    "final_counts_matrix.csv",
+    "TPM_for_CIBERSORTx.txt"
+  ],
+  "downstream_data_included": [
+    "sample_metadata_cibersortx.tsv",
+    "CIBERSORTx_Job8_Adjusted.tsv"
+  ]
+}

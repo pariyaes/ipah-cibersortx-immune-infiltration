@@ -1,0 +1,5 @@
+Sample	File	Dataset	Status	Sex	Batch	Include_in_CIBERSORTx
+GSM0000001	data/raw/counts/GSM0000001_counts.txt	GSE000000	Control	Female	1	Yes
+GSM0000002	data/raw/counts/GSM0000002_counts.txt	GSE000000	IPAH	Female	1	Yes
+GSM0000003	data/raw/counts/GSM0000003_counts.txt	GSE000000	Control	Male	2	Yes
+GSM0000004	data/raw/counts/GSM0000004_counts.txt	GSE000000	IPAH	Male	2	Yes
